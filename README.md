@@ -4,7 +4,7 @@ I'm actually a Mechatronics Master's student at the University of Siegen in Germ
 
 - 🔭 I’m currently working on my Master's Thesis which focuses on Multi-task Learning with Limited Labels.
 - 💻 You can find out my old projects at [GitHub](https://github.com/saiteja-gande)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saiteja-gande/) , [Email](saiteja.gande@student.uni-siegen.de)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saiteja-gande/) , [Email](mailto:saiteja.gande@student.uni-siegen.de)
 
 ## Skills
 
