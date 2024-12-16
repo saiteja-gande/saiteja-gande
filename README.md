@@ -1,8 +1,8 @@
 ### Hi there, I'm Saiteja 👋
 
-I'm actually a Mechatronics Master's student at the University of Siegen in Germany. I absolutely love working on AI, Machine Learning, and Deep Learning projects - they're my passion! I get so excited when I learn new things and explore new ideas 🔎. It's just too much fun!
+I recently completed my Master's in Mechatronics from the University of Siegen in Germany. I absolutely love programming including Machine Learning, and Deep Learning projects - they're my passion! I get so excited when I learn new things and explore new ideas 🔎. It's just too much fun!
 
-- 🔭 I’m currently working on my Master's Thesis which focuses on Multi-task Learning with Limited Labels.
+- 🔭 My recent project is for my Master's Thesis, which focuses on Multi-task Learning with Limited Labels.
 - 💻 You can find out my old projects at [GitHub](https://github.com/saiteja-gande)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saiteja-gande/) , [Email](mailto:saiteja.gande@student.uni-siegen.de)
 
