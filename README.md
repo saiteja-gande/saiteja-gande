@@ -1,6 +1,6 @@
 ### Hi there, I'm Saiteja 👋
 
-I recently completed my Master's in Mechatronics from the University of Siegen in Germany. I absolutely love programming including Machine Learning, and Deep Learning projects - they're my passion! I get so excited when I learn new things and explore new ideas 🔎. It's just too much fun!
+I recently completed my Master's in Mechatronics from the University of Siegen in Germany. I absolutely love programming and interest in the fields of Cloud Computing, Machine Learning, and Deep Learning  - they're my passion! I get so excited when I learn new things and explore new ideas 🔎. It's just too much fun!
 
 - 🔭 My recent project is for my Master's Thesis, which focuses on Multi-task Learning with Limited Labels.
 - 💻 You can find out my old projects at [GitHub](https://github.com/saiteja-gande)
